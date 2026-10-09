@@ -1,0 +1,5 @@
+/main
+/a.out
+/build/
+*.o
+.DS_Store
